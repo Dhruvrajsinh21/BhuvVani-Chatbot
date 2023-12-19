@@ -45,17 +45,21 @@ Open a web browser and go to http://localhost:5000/ to interact with the chatbot
 Enter messages in the chat input and view the responses from the chatbot.
 
 4. Configuration:
+
+```bash
 Model and Data Files:
 
 ├── model.h5               # Keras model file for chatbot.
 ├── data.json              # JSON file containing intents for chatbot training.
 ├── texts.pkl              # Pickle file containing preprocessed text data.
 └── labels.pkl             # Pickle file containing chatbot labels.
+```
 
+```bash
 Aadhar Center Data:
 
 ├── Aadhar-Center-List.xls.xlsx   # Excel file containing Aadhar center details.
-
+```
 
  
 ![BhuvVani](https://github.com/Dhruvrajsinh21/BhuvVani-Chatbot/assets/115185535/b0d92d1f-3a63-4a58-991c-041ba8b6248d)
