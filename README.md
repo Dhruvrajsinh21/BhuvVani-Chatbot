@@ -61,5 +61,5 @@ Aadhar Center Data:
 ├── Aadhar-Center-List.xls.xlsx   # Excel file containing Aadhar center details.
 ```
 
- 
-![BhuvVani](https://github.com/Dhruvrajsinh21/BhuvVani-Chatbot/assets/115185535/b0d92d1f-3a63-4a58-991c-041ba8b6248d)
+![BhuvVani_Landing_Page_](https://github.com/Dhruvrajsinh21/BhuvVani-Chatbot/assets/115185535/ef77bb49-6529-41ca-8c8e-9332d78ac1c7)
+
