@@ -21,7 +21,8 @@ BhuvVani processes typed or spoken messages using Flask and an NLP model to prov
 10. playsound
 
 # Installation:
-Clone the repository:
+
+1. Clone the repository:
 
 
 git clone https://github.com/Dhruvrajsinh21/BhuvVani-Chatbot.git
