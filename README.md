@@ -25,7 +25,7 @@ BhuvVani processes typed or spoken messages using Flask and an NLP model to prov
 1. Clone the repository:
 
 bash
-git clone https://github.com/Dhruvrajsinh21/BhuvVani-Chatbot.git
+'''git clone https://github.com/Dhruvrajsinh21/BhuvVani-Chatbot.git
 
 Change into the project directory:
 
