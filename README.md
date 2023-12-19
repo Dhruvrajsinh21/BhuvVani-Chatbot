@@ -25,7 +25,7 @@ BhuvVani processes typed or spoken messages using Flask and an NLP model to prov
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Dhruvrajsinh21/BhuvVani-Chatbot.git
+git clone https://github.com/Dhruvrajsinh21/BhuvVani-Chatbot.git'''
 
 2. Change into the project directory:
 
@@ -37,8 +37,8 @@ Run the Flask app:
 
 ```bash
 python app.py
-Open a web browser and go to http://localhost:5000/ to interact with the chatbot.
 
+Open a web browser and go to http://localhost:5000/ to interact with the chatbot.
 Enter messages in the chat input and view the responses from the chatbot.
 
 4. Configuration:
