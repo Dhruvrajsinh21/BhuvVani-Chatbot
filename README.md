@@ -3,9 +3,9 @@ BhuvVani processes typed or spoken messages using Flask and an NLP model to prov
 
 # Features:
 
-**Chatbot Interaction**: Users can interact with the chatbot by sending messages through the web interface.
-**BHUVAN Portal Details**: The chatbot can provide details anything related to the BHUVAN portal based on the user's input.
-**Multilingual Support**: The chatbot can respond in both English and Hindi.
+- **Chatbot Interaction**: Users can interact with the chatbot by sending messages through the web interface.
+- **BHUVAN Portal Details**: The chatbot can provide details anything related to the BHUVAN portal based on the user's input.
+- **Multilingual Support**: The chatbot can respond in both English and Hindi.
 
 # Required Python libraries:
 
